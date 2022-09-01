@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">search</string>
+    <string name="sort">sort</string>
+    <string name="name_of_the_title">Name of the Title</string>
+    <string name="name_of_author">Name of Author</string>
+    <string name="_08_30_2022">08/30/2022</string>
+    <string name="sort_by_date">sort by date</string>
+    <string name="text">Hello My name is Socheanet Loem. I use Kotlin and xml to develop this app This is the New York Times Most Popular View in last 7 days. I develop this app because of the Internship of a Company</string>
+</resources>
